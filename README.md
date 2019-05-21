@@ -6,12 +6,12 @@ You will find the joint probability distribution of the host galaxies of the dif
 -double neutron star (DNS) 
 -black hole neutron star binaries (BHNS)
 
-SNAPSHOTS   REDSHIFT
-27-28       <~0.1
-19          1.0
-15          2.0
-6           6.0
-
+| SNAPSHOTS     | REDSHIFT      |
+| ------------- | ------------- |
+| 27-28         | <~ 0.1        |
+| 19            | 1.0           |
+| 15            | 2.0           |
+| 6             | 6.0           |
 
 
 
