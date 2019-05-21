@@ -1,10 +1,21 @@
-# HostGalaxiesGW
+<script src="ASCIIMathML.js"></script>
+
 Host Galaxies of Merging Compact Objects
 
 You will find the joint probability distribution of the host galaxies of the different merging compact objects split into three different folders:
 -merging black hole binaries (DBH)
 -double neutron star (DNS) 
 -black hole neutron star binaries (BHNS)
+
+Each table contains a range for stellar masses (Ms) and star formation rate (SFR) of the simulated galaxies. 
+You will find the following information:
+logMsmin: first column. Minimum stellar mass in log. Units: Msun
+logMsmax: second column. Maximum stellar mass in log. Units: Msun 
+logSFRmin: third column. Minimum SFR in log. Units: Msum/yr
+logSFRmax    Prob
+
+
+
 
 | SNAPSHOTS     | REDSHIFT      |
 | ------------- | ------------- |
