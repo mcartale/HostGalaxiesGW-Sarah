@@ -1,1 +1,1 @@
-- ** Tables for Black Hole Binaries **
+# ** Tables for Black Hole Binaries **
