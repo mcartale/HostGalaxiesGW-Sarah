@@ -30,3 +30,5 @@ You will find the following information:
 I will provide a larger sample at different redshifts in the near future.
 
 
+------------------
+The tables were created combining the galaxy catalogs from EAGLE simulation (RecalL0025N0752, see [Schaye et al. (2015)](http://adsabs.harvard.edu/abs/2015MNRAS.446..521S))
