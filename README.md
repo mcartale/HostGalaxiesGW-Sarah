@@ -2,11 +2,7 @@
 
 You will find the joint probability distribution of the host galaxies of the different merging compact objects split into three different folders:
 
-merging black hole binaries (DBH)
-
-double neutron star (DNS) 
-
-black hole neutron star binaries (BHNS)
+DBH: merging black hole binaries; DNS: double neutron star; BHNS: black hole neutron star binaries
 
 Each table contains a range for stellar masses (Ms) and star formation rate (SFR) of the simulated galaxies.
 
