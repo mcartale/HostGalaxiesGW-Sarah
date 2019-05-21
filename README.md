@@ -1,4 +1,4 @@
-#**Host Galaxies of Merging Compact Objects**
+# **Host Galaxies of Merging Compact Objects**
 
 You will find the joint probability distribution of the host galaxies of the different merging compact objects split into three different folders:
 
