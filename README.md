@@ -8,10 +8,10 @@ Each table contains a range for stellar masses (Ms) and star formation rate (SFR
 
 You will find the following information:
 
-- logMsmin: first column. Minimum stellar mass in log. Units: Msun \\
-- logMsmax: second column. Maximum stellar mass in log. Units: Msun \\
-- logSFRmin: third column. Minimum SFR in log. Units: Msum/yr \\
-- logSFRmax: forth column. Maximum SFR in log. Units: Msun/yr \\
+- logMsmin: first column. Minimum stellar mass in log. Units: Msun 
+- logMsmax: second column. Maximum stellar mass in log. Units: Msun
+- logSFRmin: third column. Minimum SFR in log. Units: Msum/yr 
+- logSFRmax: forth column. Maximum SFR in log. Units: Msun/yr 
 - Prob: fifth column. Joint probability distribution in the range of logMsmin-logMsmax and logSFRmin-logSFRmax 
 
 
