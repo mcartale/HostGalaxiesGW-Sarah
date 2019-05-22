@@ -31,7 +31,7 @@ I will provide a larger sample at different redshifts in the near future.
 
 
 ------------------
-The tables were created combining the galaxy catalogs from EAGLE simulation of 25Mpc of side, RecalL0025N0752 (see [Schaye et al. 2015](http://adsabs.harvard.edu/abs/2015MNRAS.446..521S) for further details) togheter with 
+The tables were created combining the galaxy catalogs from EAGLE simulation of 25Mpc of side, RecalL0025N0752 (see [Schaye et al. 2015](http://adsabs.harvard.edu/abs/2015MNRAS.446..521S) for further details) togheter with the results from the population synthesis model MOBSE CC15α5 from [Giacobbo & Mapelli (2018)](http://adsabs.harvard.edu/abs/2018MNRAS.480.2011G)
 
 
 
