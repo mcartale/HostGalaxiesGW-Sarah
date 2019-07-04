@@ -43,7 +43,6 @@ You will find the following information:
 | 6             | 6.0           |
 
 
-I will provide a larger sample at different redshifts in the near future.
 
 
 ------------------
