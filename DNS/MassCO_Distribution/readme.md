@@ -1,2 +1,2 @@
-Mass of the Compact objects
+Mass of merging DNS
 
