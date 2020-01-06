@@ -1,1 +1,1 @@
-Mass distribution of CO
+Mass distribution of merging BHNS
