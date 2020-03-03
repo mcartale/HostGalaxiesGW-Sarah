@@ -1,1 +1,1 @@
-Same than in xxxx, but including the detectability for ET
+Same than in the files DistribToCompareDNS-snapxxxxx.dat, but including the detectability for ET
