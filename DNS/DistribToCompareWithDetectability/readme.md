@@ -1,1 +1,4 @@
-Same than in the files DistribToCompareDNS-snapxxxxx.dat, but including the detectability for ET
+Same than DistribToCompareDNS-snapxxxxx.dat but including ET detectability
+
+
+For the 25Mpc box
